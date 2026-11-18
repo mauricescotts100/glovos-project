@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+
+}
+.logo img{
+    width: 15%;
+    padding: 15px;
+
+}
+
+.logo{
+    background-color: #edbc0d;
+}
+.unit1{
+    text-align: center;
+    display: flex;
+    padding: 30px;
+    margin: 50px;
+
+}
+.unit2{
+    text-align: center;
+    font-size: 27px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.unit3{
+    background-color: white;
+    text-align: center;
+    color: white;
+    
+}
+
+
+
+
+
